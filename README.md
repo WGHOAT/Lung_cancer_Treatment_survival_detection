@@ -103,4 +103,5 @@ Can assist medical practitioners in risk stratification of lung cancer patients 
 
 ---
 
-
+# Disclimer
+This Project is Built with a Intent to Learn Not to Deploy in real world and it needs way more dataset to even scatch the real thing.......
